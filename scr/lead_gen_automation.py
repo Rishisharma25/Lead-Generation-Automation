@@ -59,4 +59,4 @@ def generate_leads(file_path):
 
 
 if __name__ == "__main__":
-    generate_leads("/content/companies_sorted.csv")
+    generate_leads("companies_sample.csv")
