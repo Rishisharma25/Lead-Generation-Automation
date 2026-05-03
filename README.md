@@ -4,6 +4,9 @@
 
 This project implements a simple lead generation pipeline using a company dataset from Kaggle. It extracts relevant business information, performs data cleaning, and generates structured leads suitable for outreach or analysis.
 
+The original dataset is large (~1GB) and sourced from Kaggle. A smaller sample dataset (50 records) is included in this repository for demonstration and testing purposes.
+
+
 ## Dataset
 
 Source: Kaggle Companies Dataset
